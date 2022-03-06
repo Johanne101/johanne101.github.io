@@ -20,6 +20,18 @@ Creating a repository for your site
 Creating your site
 Next steps
 
+## 1. [GitHub Pages: checklist]()
+
+**Steps** | **Actions**
+:---------|------------
+  
+- [ ] Generate a GitHub Pages site
+- [ ] Customize your homepage
+- [ ] Merge your pull request
+- [ ] Customize site details **|** Edit the configuration file to display your information.
+- [ ] Create a blog post **|** Create a new file that will become your first blog post.
+- [ ] Add blog post metadata **|** Add YAML front matter to the blog post to display the title and date.
+- [ ] Merge your first post **|**   Merge the pull request so your blog post will appear on your GitHub Pages site.
 
 ## 2. [Publishing Source:](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#publishing-sources-for-github-pages-sites) Doc.
 
