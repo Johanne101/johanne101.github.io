@@ -9,7 +9,7 @@ Web_Dev | Tools
 :-------| -----
 - [x] Web Host **|** GitHub Pages
 - [x] Publishing Source **|** GitHub Pages
-- [x] Domain **|** <username>.github.io "To be edited"
+- [x] Domain **|** [johanne101.github.io](https://johanne101.github.io/) "To be edited"
 - [ ] Coding Path **|** HTML, CSS, [React](https://github.com/gitname/react-gh-pages), JavaScript, SQL, Jekyll, Ruby, Solidity, (Review project path [here]())
 - [ ] Text editor **|** JetBrains TypeScript
 - [x] REPO **|** In-Progress
