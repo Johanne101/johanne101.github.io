@@ -10,7 +10,7 @@ Web_Dev | Tools
 - [ ] Web Host **|** GitHub Pages
 - [ ] Publishing Source **|** *TBD*
 - [ ] Domain **|** *TBD*
-- [ ] Coding Path **|** HTML, CSS, React, JavaScript, SQL, Jekyll, Ruby, Solidity, (Review project path [here]())
+- [ ] Coding Path **|** HTML, CSS, [React](https://github.com/gitname/react-gh-pages), JavaScript, SQL, Jekyll, Ruby, Solidity, (Review project path [here]())
 - [ ] Text editor **|** JetBrains
 - [x] REPO **|** In-Progress
 
